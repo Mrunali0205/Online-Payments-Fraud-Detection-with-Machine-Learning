@@ -29,23 +29,21 @@ newbalanceDest: Recipient's balance after the transaction.
 isFraud: Indicates if the transaction is fraudulent.
 
 Methodology:
-
 The approach involves using Python and various machine learning libraries to process and analyze the data. The key steps are:
 
 Data Preprocessing: Converting categorical data into numerical formats and labeling the "isFraud" column as "No Fraud" and "Fraud" for clarity.
 Model Training: Employing machine learning algorithms to train a model on the dataset, teaching it to differentiate between fraudulent and non-fraudulent transactions.
 Model Evaluation: Assessing the model's accuracy and effectiveness in identifying fraudulent transactions.
-Conclusion and Summary
-Achievements:
 
+Achievements:
 Successfully developed a machine learning model capable of detecting online payment fraud.
 Processed and utilized a comprehensive dataset, enabling the model to learn from a wide range of transaction scenarios.
-Key Takeaways:
 
+Key Takeaways:
 The model's effectiveness hinges on the quality and diversity of the dataset. The more representative the data, the better the model can generalize to real-world scenarios.
 Machine learning offers a powerful tool for identifying patterns and anomalies in complex datasets, such as those involved in online payments, thereby enhancing fraud detection capabilities.
-Future Prospects:
 
+Future Prospects:
 Further refining the model with more data and advanced machine learning techniques.
 Integrating the model into real-time payment processing systems for proactive fraud detection.
 This project showcases the potential of machine learning in enhancing online security and presents a framework that can be adapted and expanded for broader applications in the field of digital transaction security.
