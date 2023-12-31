@@ -32,7 +32,9 @@ Methodology:
 The approach involves using Python and various machine learning libraries to process and analyze the data. The key steps are:
 
 Data Preprocessing: Converting categorical data into numerical formats and labeling the "isFraud" column as "No Fraud" and "Fraud" for clarity.
+
 Model Training: Employing machine learning algorithms to train a model on the dataset, teaching it to differentiate between fraudulent and non-fraudulent transactions.
+
 Model Evaluation: Assessing the model's accuracy and effectiveness in identifying fraudulent transactions.
 
 Achievements:
