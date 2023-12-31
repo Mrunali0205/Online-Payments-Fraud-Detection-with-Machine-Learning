@@ -9,15 +9,25 @@ Dataset Description:
 The dataset, sourced from Kaggle, includes historical data on online transactions, with specific focus on fraud instances. Key columns in the dataset are:
 
 step: Measures time, with 1 step equivalent to 1 hour.
+
 type: Specifies the type of online transaction.
+
 amount: The transaction amount.
+
 nameOrig: Initiator of the transaction.
+
 oldbalanceOrg: Account balance before the transaction.
+
 newbalanceOrig: Account balance after the transaction.
+
 nameDest: Transaction recipient.
+
 oldbalanceDest: Recipient's balance before the transaction.
+
 newbalanceDest: Recipient's balance after the transaction.
+
 isFraud: Indicates if the transaction is fraudulent.
+
 Methodology:
 
 The approach involves using Python and various machine learning libraries to process and analyze the data. The key steps are:
